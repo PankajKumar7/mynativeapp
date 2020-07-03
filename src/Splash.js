@@ -24,10 +24,10 @@ const Splash = ()=>{
            </Text>
            <View style={styles.btnbox}>
            <View style={styles.login}>
-           <Button style={styles.button}  title="Log In"  />
+           <Button style={styles.button}  title="Log In"/>
            </View>
            <View style={styles.signup}>
-           <Button type="clear"  style={styles.button}  title="Sign Up"  />
+           <Button type="clear"  style={styles.button}  title="Sign Up"/>
            </View>
            </View>
         </Animatable.View>
